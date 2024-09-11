@@ -9,7 +9,7 @@ function press(num){
 
 function equal(){
     userInput.value = eval(expression);
-    expression = equal(num);
+    expression = eval(expression);
 }
 
 function erase(){

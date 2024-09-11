@@ -58,11 +58,17 @@ body{
  .btn{
   width: 23.4%;
  }
+ .calculator{
+  width: 320px;
+ }
 }
 
 @media(max-width:320px){
  .btn{
   width: 23%;
+ }
+ .calculator{
+  width: 320px;
  }
 }
 
